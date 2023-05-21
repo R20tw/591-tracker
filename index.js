@@ -63,7 +63,7 @@ async function fetchData() {
         // mrtcoods: '4231,4184,4200,4221,66266',
         searchtype: 4,
         other: 'lift',
-        rentprice: ',30000',
+        rentprice: ',36000',
         order: 'posttime',
         orderType: 'desc',
     }
